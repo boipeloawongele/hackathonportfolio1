@@ -1,5 +1,4 @@
-# hackathonportfolio1
-Feb2025Cohort Hackathon 1: Portfolio Challenge
+#Feb2025Cohort Hackathon 1: Portfolio Challenge🚀
 Welcome to the PLP Academy Portfolio Challenge! 🎉
 
 This README.md file provides all the details you need to successfully complete and submit your project. Let’s get started! 💻
@@ -50,6 +49,7 @@ Project 2: Another brief description.
 📬 Contact Me
 Feel free to reach out! Contact Form
 
+
 📁 Submission Instructions
 Create Your Portfolio: Build a complete portfolio website with all the required sections.
 Push to GitHub: Upload your project to a public GitHub repository.
@@ -63,5 +63,6 @@ Deployment (15%): Successfully hosted on a platform like GitHub Pages or Netlify
 Development Process (15%): Effective collaboration and project management.
 Technology Stack (15%): Usage of responsive, visually appealing tools.
 💡 Bonus Points: Individuals whose group members successfully submit a project will earn extra points for their contribution to teamwork and collaboration! 🎯
+
 We’re excited to see your unique creations! ✨
 Happy coding, and good luck! 🍀
